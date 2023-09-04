@@ -1,0 +1,32 @@
+// let condition = true;
+// if(condition)
+// {
+//     console.log("condition:True");
+//     console.log("condition:True");
+// }
+
+// else{
+// console.log("condition:False");
+// }
+ 
+// let weather = "hot";
+// if(weather=== "hot")
+// {
+//     console.log("Weather is Hot!");   
+// }
+// else
+// {
+// console.log("Weather is Cold!");
+// }
+
+let isRaining = false;
+let isCloudy = true;
+
+if(isCloudy|| isRaining)
+{
+    console.log("Don't forget to take Umberlla!");   
+}
+else
+{
+console.log("Sky is normal Enjoy the weather!");
+}
