@@ -4,3 +4,9 @@
     - Function: makecall(), switchon(), sendmessage()
     - property: color-blue
                 price-4000
+
+  ------------------------------------------------------------
+
+  Test of file transfer
+g
+
